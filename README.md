@@ -8,7 +8,7 @@ Evaluate subscription likelihood using a Random Forest model. Data exploration, 
 
 ## Data
 
-The data was sourced from [this Kaggle competition](https://www.kaggle.com/henriqueyamahata/bank-marketing), which in turn references [this academic article] (http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
+The data was sourced from [this Kaggle competition](https://www.kaggle.com/henriqueyamahata/bank-marketing), which in turn references [this academic article](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
 
 The academic article runs their own regression on the Portuguese bank data. 
 
