@@ -1,6 +1,6 @@
 # Portuguese Bank Marketing Data Analysis
 
-Running a machine learning analysis on Portuguese bank data to evaluate a customer's likelihood of subscribing to a term depsoit.
+Running a machine learning analysis on Portuguese bank data to evaluate a customer's likelihood of subscribing to a term deposit.
 
 ## Summary
 
